@@ -1,0 +1,45 @@
+body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 100;
+}
+
+header {
+    background-color: #a99cc4;
+    color: #0f0e0ec5;
+    text-align: center;
+    padding: 2rem 0;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    background-color: #3c108d;
+    padding: 1rem 0;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+    margin: 0 1rem;
+}
+
+section {
+    padding: 3rem 0;
+    text-align: center;
+}
+
+.project {
+    background-color: #f9f9f9;
+    padding: 1rem;
+    margin: 1rem auto;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+footer {
+    background-color: #444;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+}
